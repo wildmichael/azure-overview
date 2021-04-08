@@ -39,17 +39,18 @@
 [Azure Purview]: https://azure.microsoft.comg/services/purview/
 [Microsoft Graph Data Connect]: https://azure.microsoft.comg/services/graph-data-connect/
 
-## Blockchain
+## [Blockchain]
 
 * **[Azure Blockchain-Dienst]**: Erstellung von Blockchainnetzwerken. Momentan nur für Konsortiumblockchains (z.B. Lieferketten).
 * **[Azure Blockchain Tokens]**: Entwicklung von Blockchain-Anwendungen um Besitz und Handel von physischen Objekten und digitalen Inhalten zu verwalten. 
 * **[Azure Blockchain Workbench]**: Protypenentwicklung von Blockchain-Anwendungen basierend auf Ethereum.
 
+[Blockchain]: https://azure.microsoft.com/services/#blockchain
 [Azure Blockchain-Dienst]: https://azure.microsoft.comg/services/blockchain-service/
 [Azure Blockchain Tokens]: https://azure.microsoft.com/en-us/services/blockchain-tokens/
 [Azure Blockchain Workbench]: https://azure.microsoft.com/features/blockchain-workbench/
 
-## Compute
+## [Compute]
 
 * **[API-Apps]**: Bereitstellung und Verwaltung von APIs in der Cloud, welche [App Service](#app-service) nutzen.
 * **[App Service]**<a name="app-service"></a>: Erstellen und Hosten von Web-Apps, mobilen Backends und REST-APIs auf verwalteter Infrastruktur.
@@ -70,6 +71,7 @@
 * **[Microsoft Azure Virtual Machine Scale Sets]**: Zur Verwaltung und Skalierung grosser Anzahl von virtueller Maschinen.
 * **[Azure Dedicated Host]**: Dedizierte physische Server zum Hosten von VMs. Der Server wird nicht mit anderen Kunden geteilt, was zur Erfüllung von Compliance-Vorgaben nötig sein kann.
 
+[Compute]: https://azure.microsoft.com/services/#compute
 [API-Apps]: https://azure.microsoft.comg/services/app-service/api/
 [App Service]: https://azure.microsoft.comg/services/app-service
 [Azure CycleCloud]: https://azure.microsoft.comg/features/azure-cyclecloud/
