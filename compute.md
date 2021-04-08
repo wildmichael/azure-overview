@@ -17,21 +17,21 @@
 * **[Microsoft Azure Virtual Machine Scale Sets]**: Zur Verwaltung und Skalierung grosser Anzahl von virtueller Maschinen.
 * **[Azure Dedicated Host]**: Dedizierte physische Server zum Hosten von VMs. Der Server wird nicht mit anderen Kunden geteilt, was zur Erfüllung von Compliance-Vorgaben nötig sein kann.
 
-[Compute]: https://azure.microsoft.com/services/#compute
-[API-Apps]: https://azure.microsoft.comg/services/app-service/api/
-[App Service]: https://azure.microsoft.comg/services/app-service
-[Azure CycleCloud]: https://azure.microsoft.comg/features/azure-cyclecloud/
-[Azure Functions]: https://azure.microsoft.comg/services/functions/
-[Azure Quantum]: https://azure.microsoft.comg/services/quantum/
-[Azure Spring Cloud]: https://azure.microsoft.comg/services/spring-cloud/
-[VMWare-Lösungen in Azure]: https://azure.microsoft.comg/services/azure-vmware/
-[Batch]: https://azure.microsoft.comg/services/batch/
-[Cloud Services]: https://azure.microsoft.comg/services/cloud-services/
-[Virtuelle Computer]: https://azure.microsoft.comg/services/virtual-machines/
-[Mobile Apps]: https://azure.microsoft.comg/services/app-service/mobile/
-[Service Fabric]: https://azure.microsoft.comg/services/service-fabric/
+[Compute]: https://azure.microsoft.com/de-de/services/#compute
+[API-Apps]: https://azure.microsoft.com/de-de/services/app-service/api/
+[App Service]: https://azure.microsoft.com/de-de/services/app-service
+[Azure CycleCloud]: https://azure.microsoft.com/features/azure-cyclecloud/
+[Azure Functions]: https://azure.microsoft.com/de-de/services/functions/
+[Azure Quantum]: https://azure.microsoft.com/de-de/services/quantum/
+[Azure Spring Cloud]: https://azure.microsoft.com/de-de/services/spring-cloud/
+[VMWare-Lösungen in Azure]: https://azure.microsoft.com/de-de/services/azure-vmware/
+[Batch]: https://azure.microsoft.com/de-de/services/batch/
+[Cloud Services]: https://azure.microsoft.com/de-de/services/cloud-services/
+[Virtuelle Computer]: https://azure.microsoft.com/de-de/services/virtual-machines/
+[Mobile Apps]: https://azure.microsoft.com/de-de/services/app-service/mobile/
+[Service Fabric]: https://azure.microsoft.com/de-de/services/service-fabric/
 [Vergleich AKS vs. Service Fabric]: https://docs.microsoft.com/en-us/archive/blogs/azuredev/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture
-[SQL Server auf VM]: https://azure.microsoft.comg/services/virtual-machines/sql-server/
-[Statische Web-Apps]: https://azure.microsoft.comg/services/app-service/static/
-[Microsoft Azure Virtual Machine Scale Sets]: https://azure.microsoft.comg/services/virtual-machine-scale-sets/
+[SQL Server auf VM]: https://azure.microsoft.com/de-de/services/virtual-machines/sql-server/
+[Statische Web-Apps]: https://azure.microsoft.com/de-de/services/app-service/static/
+[Microsoft Azure Virtual Machine Scale Sets]: https://azure.microsoft.com/de-de/services/virtual-machine-scale-sets/
 [Azure Dedicated Host]: https://azure.microsoft.com/de-de/services/virtual-machines/dedicated-host/

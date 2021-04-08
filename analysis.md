@@ -18,21 +18,21 @@
 * **[Azure Purview]**: Daten-Governance - Erstellt Übersichten über Datenlandschaft, klassifiziert vertrauliche Daten und ermittelt Datenherkunft. Für lokale, Cloud- und SaaS-Daten.
 * **[Microsoft Graph Data Connect]**: Import grosser Mengen Microsoft 365 Daten nach [Data Factory](#factory) zur weiteren Verarbeitung und Speicherung. Z.B. können dann Machine-Learning-Modelle damit trainiert werden.
 
-[Analysen]: https://azure.microsoft.com/services/#analytics
-[Azure Analysis Services]: https://azure.microsoft.com/services/analysis-services/
-[Azure Daten-Explorer]: https://azure.microsoft.com/services/data-explorer/
-[Azure Data Lake Storage]: https://azure.microsoft.comg/services/storage/data-lake-storage/
-[Azure Data Share]: https://azure.microsoft.comg/services/data-share/
-[Azure Databricks]: https://azure.microsoft.comg/services/databricks/
-[Azure Stream Analytics]: https://azure.microsoft.comg/services/stream-analytics/
-[Azure Synapse Analytics]: https://azure.microsoft.comg/services/synapse-analytics/
-[Azure Data Catalog]: https://azure.microsoft.comg/services/data-catalog/
-[Data Factory]: https://azure.microsoft.comg/services/data-factory/
-[Data Lake Analytics]: https://azure.microsoft.comg/services/data-lake-analytics/
-[Event Hubs]: https://azure.microsoft.comg/services/event-hubs/
-[HDInsight]: https://azure.microsoft.comg/services/hdinsight
-[Log Analytics]: https://docs.microsoft.comg/azure/azure-monitor/logs/log-analytics-overview
-[Power BI Embedded]: https://azure.microsoft.comg/services/power-bi-embedded
-[R-Server for HDInsight]: https://azure.microsoft.comg/services/hdinsight/r-server/
-[Azure Purview]: https://azure.microsoft.comg/services/purview/
-[Microsoft Graph Data Connect]: https://azure.microsoft.comg/services/graph-data-connect/
+[Analysen]: https://azure.microsoft.com/de-de/services/#analytics
+[Azure Analysis Services]: https://azure.microsoft.com/de-de/services/analysis-services/
+[Azure Daten-Explorer]: https://azure.microsoft.com/de-de/services/data-explorer/
+[Azure Data Lake Storage]: https://azure.microsoft.com/de-de/services/storage/data-lake-storage/
+[Azure Data Share]: https://azure.microsoft.com/de-de/services/data-share/
+[Azure Databricks]: https://azure.microsoft.com/de-de/services/databricks/
+[Azure Stream Analytics]: https://azure.microsoft.com/de-de/services/stream-analytics/
+[Azure Synapse Analytics]: https://azure.microsoft.com/de-de/services/synapse-analytics/
+[Azure Data Catalog]: https://azure.microsoft.com/de-de/services/data-catalog/
+[Data Factory]: https://azure.microsoft.com/de-de/services/data-factory/
+[Data Lake Analytics]: https://azure.microsoft.com/de-de/services/data-lake-analytics/
+[Event Hubs]: https://azure.microsoft.com/de-de/services/event-hubs/
+[HDInsight]: https://azure.microsoft.com/de-de/services/hdinsight
+[Log Analytics]: https://docs.microsoft.com/azure/azure-monitor/logs/log-analytics-overview
+[Power BI Embedded]: https://azure.microsoft.com/de-de/services/power-bi-embedded
+[R-Server for HDInsight]: https://azure.microsoft.com/de-de/services/hdinsight/r-server/
+[Azure Purview]: https://azure.microsoft.com/de-de/services/purview/
+[Microsoft Graph Data Connect]: https://azure.microsoft.com/de-de/services/graph-data-connect/
