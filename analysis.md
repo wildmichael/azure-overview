@@ -12,7 +12,7 @@
 * **[Data Lake Analytics]**: Big-Data Analyseplatform. Kann Daten aus [Azure Synapse Analytics](#synapse), [Azure Data Lake Storage](#data-lake), [Azure Blob Storage](#blob) und SQL Datenbanken in der Azure Cloud beziehen. Analysen können mit R, Python und U-SQL (SQL-Dialekt+C#) gemacht werden.
 * **[Event Hubs]**: Event Streaming Platform für Datenerfassung und Verarbeitung in Echtzeit, ähnlich wie Apache Kafka. Kann mit AMQP, Apache Kafka, aber auch direkt HTTP, integriert werden.
 * **[HDInsight]**<a name="hdinsight"></a>: Verwaltete Cluster mit Apache Spark, Apache Hadoop, Apache HBase, Apache Kafka und anderen.
-* **[Log Analytics]**: Analyse von Log Daten aus [Azure Monitor](#monitor).
+* **[Log Analytics]**: Analyse von Log Daten aus [Azure Monitor](/management-tools.md#monitor).
 * **[Power BI Embedded]**: White-Label Power BI Komponenten für Kundenseitige Reports, Dashboards, etc.
 * **[R-Server for HDInsight]**: Verwalteter Server, um mit der Statistiksoftware R Analysen auf [HDInsight](#hdinsight) durchzuführen.
 * **[Azure Purview]**: Daten-Governance - Erstellt Übersichten über Datenlandschaft, klassifiziert vertrauliche Daten und ermittelt Datenherkunft. Für lokale, Cloud- und SaaS-Daten.
