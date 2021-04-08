@@ -17,3 +17,5 @@
 ## [Hydrid + Multicloud](/hybrid-multicloud.md)
 
 ## [Identität](/identity.md)
+
+## [Integration](/integration.md)
