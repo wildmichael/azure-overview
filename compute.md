@@ -4,13 +4,11 @@
 * **[App Service]**<a name="app-service"></a>: Erstellen und Hosten von Web-Apps, mobilen Backends und REST-APIs auf verwalteter Infrastruktur.
 * **[Azure CycleCloud]**: Verwaltete Cluster für Hochleistungsrechnen (HPC). Z.B. für Ströhmungssimulationen, Biochemie, Festigkeitsrechnungen, Wetter- oder Klimasimulationen, etc.
 * **[Azure Functions]**: Serverloser Betrieb von ereignisgesteuerten Funktionen.
-* **[Azure Kubernetes Service] (AKS)**<a name="AKS"></a>: Verwaltete Container-Orchestrierungs-Platform. Wird zur Erstellung von hochskalierbaren Microservice-Architekturen verwendet. Es fallen Kosten für die verwendeten VMs an.
 * **[Azure Quantum]**: Marketplace für Anwendungen von Quantencomputern (noch in Vorschau).
 * **[Azure Spring Cloud]**: Verwaltete VMWare Spring Cloud, wird zur Erstellung von Microservice-Architekturen auf Basis von Spring Boot und .NET Core Steeltoe verwendet.
 * **[VMWare-Lösungen in Azure]**: Erlaubt die Migration von VMWare Lösungen aus dem on-premise Rechenzentrum in die Cloud.
 * **[Batch]**: Stapelverarbeitung (z.B. Lohnabrechnungen, Simulationen, Berechnen von Portfoliorisiken, Software Tests, etc.) auf skalierbaren Ressourcen. Kann als Lösung an Kunden angeboten werden.
 * **[Cloud Services]**: Platform as a Service (PaaS). Die Anwendung, z.B. Web-App, wird auf einer von Microsoft verwalteten VM betrieben (d.h. Microsoft kümmert sich um Konfiguration, Sicherheitsupdates, etc.)
-* **[Container Instances] (ACI)**: Container-Orchestrierungs-Platform, als Alternative zu [AKS](#AKS). Für die VMs fallen keine zusätzlichen Kosten an.
 * **[Virtuelle Computer]**: Infrastructure as a Service (IaaS). Virtuelle Computer (VMs) mit Linux und Windows Betriebbsystem. Verfügbar mit unterschiedlichen Leistungsmerkmalen (CPU, Speicherplatz, Memory, etc.).
 * **[Mobile Apps]**: Bereitstellen von Backends für Mobile Apps. Nach Kunden segmentierte Push-Nachrichten, AD-Anmeldung für Unternehmenskunden. Offline-Synchronisation. Social-Media-Integration. App-Zugriff auf Unternehmensdaten (lokal und Cloud).
 * **[Service Fabric]**: Betrieb von hochverfügbaren, verteilten Apps, Microservices und Containern. Wird von einer Vielzahl von Microsoft-Produkten und Azure-Services verwendet (Skype for Business, Intune, Event Hubs, Data Factory, Cosmos DB, ...). [Vergleich AKS vs. Service Fabric]
@@ -24,13 +22,11 @@
 [App Service]: https://azure.microsoft.comg/services/app-service
 [Azure CycleCloud]: https://azure.microsoft.comg/features/azure-cyclecloud/
 [Azure Functions]: https://azure.microsoft.comg/services/functions/
-[Azure Kubernetes Service]: https://azure.microsoft.comg/services/kubernetes-service/
 [Azure Quantum]: https://azure.microsoft.comg/services/quantum/
 [Azure Spring Cloud]: https://azure.microsoft.comg/services/spring-cloud/
 [VMWare-Lösungen in Azure]: https://azure.microsoft.comg/services/azure-vmware/
 [Batch]: https://azure.microsoft.comg/services/batch/
 [Cloud Services]: https://azure.microsoft.comg/services/cloud-services/
-[Container Instances]: https://azure.microsoft.comg/services/container-instances/
 [Virtuelle Computer]: https://azure.microsoft.comg/services/virtual-machines/
 [Mobile Apps]: https://azure.microsoft.comg/services/app-service/mobile/
 [Service Fabric]: https://azure.microsoft.comg/services/service-fabric/
