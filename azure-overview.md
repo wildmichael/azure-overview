@@ -14,4 +14,4 @@
 
 ## [Entwicklungstools](/developer-tools.md)
 
-## [Hydrid + Multicloud](/hydrid-multicloud.md)
+## [Hydrid + Multicloud](/hybrid-multicloud.md)
