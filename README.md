@@ -19,3 +19,5 @@
 ## [Identität](/identity.md)
 
 ## [Integration](/integration.md)
+
+## [Internet der Dinge (IoT)](/iot.md)

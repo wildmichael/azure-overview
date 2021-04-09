@@ -3,7 +3,7 @@
 * **[API-Apps]**: Bereitstellung und Verwaltung von APIs in der Cloud, welche [App Service](#app-service) nutzen.
 * **[App Service]**<a name="app-service"></a>: Erstellen und Hosten von Web-Apps, mobilen Backends und REST-APIs auf verwalteter Infrastruktur.
 * **[Azure CycleCloud]**: Verwaltete Cluster für Hochleistungsrechnen (HPC). Z.B. für Ströhmungssimulationen, Biochemie, Festigkeitsrechnungen, Wetter- oder Klimasimulationen, etc.
-* **[Azure Functions]**: Serverloser Betrieb von ereignisgesteuerten Funktionen.
+* **[Azure Functions]**<a name="functions"></a>: Serverloser Betrieb von ereignisgesteuerten Funktionen.
 * **[Azure Quantum]**: Marketplace für Anwendungen von Quantencomputern (noch in Vorschau).
 * **[Azure Spring Cloud]**: Verwaltete VMWare Spring Cloud, wird zur Erstellung von Microservice-Architekturen auf Basis von Spring Boot und .NET Core Steeltoe verwendet.
 * **[VMWare-Lösungen in Azure]**: Erlaubt die Migration von VMWare Lösungen aus dem on-premise Rechenzentrum in die Cloud.

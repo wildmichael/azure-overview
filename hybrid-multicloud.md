@@ -2,8 +2,7 @@
 
 * **[Azure Arc]**: Zentrale Verwaltung, Policies, Compliance von Multicloud, On-Premise und Edge Ressourcen.
 * **[Azure ExpressRoute]**: Private Verbindungen von der Azure Cloud in On-Premise Netzwerke/WANs.
-* **[Azure IoT Edge]**: Verwaltete Lösung zur Bereitstellung von containerisierten Anwendungen in Edge Geräten. So können z.B. AI- und Analyse-Workloads näher an die Daten-Quelle oder -Konsumenten verschoben werden.
-* **[Azure Stack]**: Erlaubt, Azure Cloud Dienste auf On-Premise oder sogar isolierte Infrastruktur (Sicherheit, kein Netzwerk möglich, etc.) zu betreiben. Die private, lokale Azure Cloud. Gliedert sich in
+* **[Azure Stack]**<a name="stack"></a>: Erlaubt, Azure Cloud Dienste auf On-Premise oder sogar isolierte Infrastruktur (Sicherheit, kein Netzwerk möglich, etc.) zu betreiben. Die private, lokale Azure Cloud. Gliedert sich in
   * **[Azure Stack Edge]**: Für Edge-Computing mit Datenübertragung in die Cloud
   * **[Azure Stack HCI]**: Für hyperkonvergente Infrastruktur
   * **[Azure Stack Hub]**: Für die lokale, autonome Azure Cloud.
@@ -12,7 +11,6 @@
 [Hybrid + Multicloud]: https://azure.microsoft.com/de-de/services/#hybrid-multicloud
 [Azure Arc]: https://azure.microsoft.com/de-de/services/azure-arc/
 [Azure ExpressRoute]: https://azure.microsoft.com/de-de/services/expressroute/
-[Azure IoT Edge]: https://azure.microsoft.com/de-de/services/iot-edge/
 [Azure Stack]: https://azure.microsoft.com/de-de/overview/azure-stack/
 [Azure Stack Edge]: https://azure.microsoft.com/de-de/products/azure-stack/edge/
 [Azure Stack HCI]: https://azure.microsoft.com/de-de/products/azure-stack/hci/
