@@ -1,4 +1,7 @@
 {
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "editor.formatOnSave": true,
     "spellright.language": [
         "de",
         "en"
