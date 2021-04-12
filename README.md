@@ -27,3 +27,5 @@
 ## [Medien](/media.md)
 
 ## [Migration](/migration.md)
+
+## [Mixed Reality](/mixed-reality.md)
