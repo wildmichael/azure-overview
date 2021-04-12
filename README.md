@@ -25,3 +25,5 @@
 ## [KI + Machine-Learning](/ai-machine-learning.md)
 
 ## [Medien](/media.md)
+
+## [Migration](/migration.md)
