@@ -1,14 +1,7 @@
 {
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "editor.formatOnSave": true,
-    "spellright.language": [
-        "de",
-        "en"
-    ],
-    "spellright.documentTypes": [
-        "markdown",
-        "latex",
-        "plaintext"
-    ]
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.formatOnSave": true,
+  "spellright.language": ["de", "en"],
+  "spellright.documentTypes": ["markdown", "latex", "plaintext"]
 }
