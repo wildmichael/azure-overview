@@ -1,0 +1,24 @@
+file: main.md
+sections:
+  - file: analysis.md
+  - file: blockchain.md
+  - file: compute.md
+  - file: container.md
+  - file: databases.md
+  - file: devops.md
+  - file: developer-tools.md
+  - file: hybrid-multicloud.md
+  - file: identity.md
+  - file: integration.md
+  - file: iot.md
+  - file: ai-machine-learning.md
+  - file: media.md
+  - file: migration.md
+  - file: mixed-reality.md
+  - file: mobile.md
+  - file: networking.md
+  - file: security.md
+  - file: storage.md
+  - file: management-tools.md
+  - file: web.md
+  - file: windows-virtual-desktop.md
