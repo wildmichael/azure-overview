@@ -41,3 +41,5 @@
 ## [Verwaltung und Governance](/management-tools.md)
 
 ## [Web](/web.md)
+
+## [Windows Virtual Desktop](/windows-virtual-desktop.md)
