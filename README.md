@@ -39,3 +39,5 @@
 ## [Speicher](/storage.md)
 
 ## [Verwaltung und Governance](/management-tools.md)
+
+## [Web](/web.md)

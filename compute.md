@@ -1,7 +1,5 @@
 # [Compute]
 
-* **[API-Apps]**: Bereitstellung und Verwaltung von APIs in der Cloud, welche [App Service](#app-service) nutzen.
-* **[App Service]**<a name="app-service"></a>: Erstellen und Hosten von Web-Apps, mobilen Backends und REST-APIs auf verwalteter Infrastruktur.
 * **[Azure CycleCloud]**: Verwaltete Cluster für Hochleistungsrechnen (HPC). Z.B. für Ströhmungssimulationen, Biochemie, Festigkeitsrechnungen, Wetter- oder Klimasimulationen, etc.
 * **[Azure Functions]**<a name="functions"></a>: Serverloser Betrieb von ereignisgesteuerten Funktionen.
 * **[Azure Quantum]**: Marketplace für Anwendungen von Quantencomputern (noch in Vorschau).
@@ -13,13 +11,10 @@
 * **[Mobile Apps]**: Bereitstellen von Backends für Mobile Apps. Nach Kunden segmentierte Push-Nachrichten, AD-Anmeldung für Unternehmenskunden. Offline-Synchronisation. Social-Media-Integration. App-Zugriff auf Unternehmensdaten (lokal und Cloud).
 * **[Service Fabric]**: Betrieb von hochverfügbaren, verteilten Apps, Microservices und Containern. Wird von einer Vielzahl von Microsoft-Produkten und Azure-Services verwendet (Skype for Business, Intune, Event Hubs, Data Factory, Cosmos DB, ...). [Vergleich AKS vs. Service Fabric]
 * **[SQL Server auf VM]**: Betrieb von MS SQL Server auf einer von Microsoft verwalteten VM. Voller Funktionsumfang von on-premise SQL Server, aber höhere Kosten als die SaaS-Version von SQL Server.
-* **[Statische Web-Apps]** (Vorschau): Vereinfachte Entwicklung und Betrieb von statischen Web-Frontents, welche dynamische, serverlose Backends nutzen.
 * **[Microsoft Azure Virtual Machine Scale Sets]**: Zur Verwaltung und Skalierung grosser Anzahl von virtueller Maschinen.
 * **[Azure Dedicated Host]**: Dedizierte physische Server zum Hosten von VMs. Der Server wird nicht mit anderen Kunden geteilt, was zur Erfüllung von Compliance-Vorgaben nötig sein kann.
 
 [Compute]: https://azure.microsoft.com/de-de/services/#compute
-[API-Apps]: https://azure.microsoft.com/de-de/services/app-service/api/
-[App Service]: https://azure.microsoft.com/de-de/services/app-service
 [Azure CycleCloud]: https://azure.microsoft.com/features/azure-cyclecloud/
 [Azure Functions]: https://azure.microsoft.com/de-de/services/functions/
 [Azure Quantum]: https://azure.microsoft.com/de-de/services/quantum/
@@ -32,6 +27,5 @@
 [Service Fabric]: https://azure.microsoft.com/de-de/services/service-fabric/
 [Vergleich AKS vs. Service Fabric]: https://docs.microsoft.com/en-us/archive/blogs/azuredev/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture
 [SQL Server auf VM]: https://azure.microsoft.com/de-de/services/virtual-machines/sql-server/
-[Statische Web-Apps]: https://azure.microsoft.com/de-de/services/app-service/static/
 [Microsoft Azure Virtual Machine Scale Sets]: https://azure.microsoft.com/de-de/services/virtual-machine-scale-sets/
 [Azure Dedicated Host]: https://azure.microsoft.com/de-de/services/virtual-machines/dedicated-host/
