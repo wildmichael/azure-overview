@@ -37,3 +37,5 @@
 ## [Sicherheit](/security.md)
 
 ## [Speicher](/storage.md)
+
+## [Verwaltung und Governance](/management-tools.md)
