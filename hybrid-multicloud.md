@@ -1,6 +1,6 @@
 # [Hybrid + Multicloud]
 
-* **[Azure Arc]**: Zentrale Verwaltung, Policies, Compliance von Multicloud, On-Premise und Edge Ressourcen.
+* **[Azure Arc]**<a name="arc"></a>: Zentrale Verwaltung, Policies, Compliance von Multicloud, On-Premise und Edge Ressourcen.
 * **[Azure ExpressRoute]**<a name="express-route"></a>: Private Verbindungen von der Azure Cloud in On-Premise Netzwerke/WANs.
 * **[Azure Stack]**<a name="stack"></a>: Erlaubt, Azure Cloud Dienste auf On-Premise oder sogar isolierte Infrastruktur (Sicherheit, kein Netzwerk möglich, etc.) zu betreiben. Die private, lokale Azure Cloud. Gliedert sich in
   * **[Azure Stack Edge]**: Für Edge-Computing mit Datenübertragung in die Cloud
