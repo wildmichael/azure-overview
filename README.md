@@ -35,3 +35,5 @@
 ## [Netzwerk](/networking.md)
 
 ## [Sicherheit](/security.md)
+
+## [Speicher](/storage.md)
