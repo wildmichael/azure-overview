@@ -50,7 +50,7 @@
     werden. Die Integration mit on-premise Ressourcen ist möglich.
 * **[Virtual Network]**: Virtuelle Netzwerkkonfiguration für Cloud-Ressourcen
     und Hybridinfrastruktur. Kann mit IPsec-VPN oder
-    [ExpressRoute](/hybrid-multicloud.md#express-route) kombiniert werden.
+    [ExpressRoute](/hybrid-multicloud.md) kombiniert werden.
     Eigene IP-Adressen und DNS-Server. Datenverkehr zwischen Subnetzen kann
     kontrolliert werden.
 * **[Virtual WAN]**: Dienst für einheitliche, globale Konnektivität und
@@ -61,7 +61,7 @@
 * **[Web Application Firewall]**: Schützt Web-Applikationen vor 10 der
     gängigsten Sicherheitsrisiken, wie SQL Injection oder Cross Site
     Scripting. Anpassbare Regeln. Überwachung mittels [Azure
-    Monitor](/management-tools.md#monitor).
+    Monitor](/management-tools.md).
 * **[Azure Orbital]** (Vorschau): Dienst zur Planung von Satellitenverbindungen
     und Datentransfer mit der Cloud über eine Satellitenverbindung ohne
     eigene Erdfunkstelleninfrastruktur. Erlaubt aber auch das Planen und

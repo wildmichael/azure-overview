@@ -1,6 +1,6 @@
 # [Container]
 
-* **[Azure Kubernetes Service] (AKS)**<a name="AKS"></a>: Verwaltete
+* **[Azure Kubernetes Service] (AKS)**: Verwaltete
     Container-Orchestrierungs-Platform. Wird zur Erstellung von hochskalierbaren
     Microservice-Architekturen verwendet. Es fallen Kosten für die verwendeten
     VMs an.
@@ -14,7 +14,7 @@
     AD-Rollenbasierte Zugriffskontrolle. Automatisches Erstellen und Patchen von
     Containern.
 * **[Web-App für Container]**: Bereitstellung von Web-Applikationen mit
-    Containern mittels [App Service](/compute.md#app-service).
+    Containern mittels [App Service](/compute.md).
 
 [Container]: https://azure.microsoft.com/de-de/services/#containers
 [Azure Kubernetes Service]: https://azure.microsoft.com/de-de/services/kubernetes-service/

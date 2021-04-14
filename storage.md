@@ -12,7 +12,7 @@
     z.B. Azure VMs, lokaler Server, SQL Server, SAP HANA und Azure Files.
     Backups können in lokal redundantem, georedundantem und zonenredundantem
     Speicher gesichert werden.
-* **[Azure Data Lake Storage]**<a name="data-lake"></a>: Hochverfügbarer,
+* **[Azure Data Lake Storage]**: Hochverfügbarer,
     geo-replizierter Speicher für unstrukturierte Daten mit rollenbasierter
     Rechteverwaltung (RBAC). Kann von anderen Diensten als Datenquelle/ziel
     genutzt werden.

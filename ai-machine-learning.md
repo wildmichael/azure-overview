@@ -8,7 +8,7 @@
     Geosuche, Filtern und Faceting, optische Zeichenerkennung,
     Schlüsselbegrifferkennung, Erkennung benannter Entitäten, semantische
     Suche mit Deep-Learning-Modellen um die relevanten Resultate zu finden.
-* **[Azure Machine Learning]**<a name="machine-learning"></a>: End-to-End MLOps
+* **[Azure Machine Learning]**: End-to-End MLOps
     für die schnelle Erstellung von Modellen und deren Bereitstellung in der
     Produktion. Unterstützt Experten mit Jupyter Notebooks und den bekannten
     Frameworks wie PyTorch, Tensorflow, scikit-learn, Kubeflow und R, aber
@@ -16,7 +16,7 @@
 * **[Azure Open Datasets]**: Kuratierte Sammlung von öffentlich zugänglichen
     Daten, wie z.B. Wetter, Satellitenbilder, sozioökonomische Daten,
     Sicherheit in Städten, Feiertage, etc.
-* **[Azure Cognitive Services]**<a name="cognitive"></a>: Sammlung von KI- und
+* **[Azure Cognitive Services]**: Sammlung von KI- und
     kognitiven APIS. Umfasst:
   * **Entscheidung**:
     * **[Anomalieerkennung]**: Automatische Auswahl von Modellen zur

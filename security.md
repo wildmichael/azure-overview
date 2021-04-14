@@ -3,9 +3,9 @@
 * **[Azure Defender]**: Dienst zum Schutz Azure und hybrider
     Cloud-Infrastruktur. Ungewöhnliche Zugriffe auf Azure Storage können
     ermittelt werden. Überprüft Container Images auf Sicherheitsrisiken und
-    schützt [Azure Kubernetes](/container.md#AKS) Instanzen. Schützt Windows
+    schützt [Azure Kubernetes](/container.md) Instanzen. Schützt Windows
     Server und Clients und Linux Server und analysiert Sicherheitsrisiken auf
-    VMs. Mit [Azure Arc](/hybrid-multicloud.md#arc) können Ressourcen
+    VMs. Mit [Azure Arc](/hybrid-multicloud.md) können Ressourcen
     ausserhalb der Azure Cloud abgedeckt werden.
 * **[Azure DDoS Protection]**: Schutz vor verteilten Denial-of-Service Attacken
     und deren Kosten.
@@ -24,7 +24,7 @@
     werden. Erlaubt die Freigabe von Daten an Drittpersonen. Berechtigungen
     können bei Bedarf entzogen werden. Flexible Auswahl der Verschlüsselung
     (bring-your-own-key oder hold-your-own-key).
-* **[Azure Sentinel]**<a name="sentinel"></a>: Dienst für KI-gestützte
+* **[Azure Sentinel]**: Dienst für KI-gestützte
     Sicherheitsanalysen, Bedrohungserkennung und Reaktion.
 * **[Key Vault]**: Speicher für kryptographische Schlüssel und andere
     Geheimnisse, welche z.B. von Cloud-Anwendungen verwendet werden. Aufgaben

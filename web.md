@@ -4,7 +4,7 @@
     [App Service](#app-service) nutzen.
 * **[API Management]**: Zentralisierte Verwaltung von APIs in der Cloud und in
     Hybrid- und Multicloud-Umgebungen.
-* **[App Service]**<a name="app-service"></a>: Erstellen und Hosten von
+* **[App Service]**: Erstellen und Hosten von
     Web-Apps, mobilen Backends und REST-APIs auf verwalteter Infrastruktur.
 * **[Azure SignalR Service]**: Verwalteter Dienst für Echtzeitkommunikation mit
     Web-Anwendungen. Lässt sich mit anderen Azure Diensten, wie Azure

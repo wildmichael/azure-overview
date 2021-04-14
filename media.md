@@ -20,7 +20,7 @@
     und Filtern. Livestreams können mit DVR aufgezeichnet und als
     Archivaufzeichnung zur Verfügung gestellt werden. Ungewünschte Inhalte
     können aus den Archiven automatisch entfernt werden.
-* **[Live Video Analytis]**<a name="live-video-analytics"></a>: Plattform zum
+* **[Live Video Analytis]**: Plattform zum
     Erstellen KI-gestützter Video-Anwendungen. Kann in der Cloud oder in
     Edge-Geräten nahe der Videoquelle ausgeführt werden. Echtzeitanalysen für
     schnelle Geschäftsentscheidungen. KI von Microsoft aber auch eigene

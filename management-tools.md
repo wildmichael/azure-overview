@@ -20,7 +20,7 @@
 * **[Azure Mobile App]**: Mobil App mit der Ressourcen und deren Integrität
     überwacht werden kann. Probleme können diagnostiziert und behoben werden.
     Azure Ressourcen können mittels Kommandozeile verwaltet werden.
-* **[Azure Monitor]**<a name="monitor"></a>: Überwachung und Sammlung von
+* **[Azure Monitor]**: Überwachung und Sammlung von
     Telemetriedaten von Anwendungen, Rechnerinfrastrukturen und Netzwerken
     aus der Azure Cloud und on-premise Umgebungen.
 * **[Azure Policy]**: Dienst zur Richtlinienerzwingung und Bewertung,

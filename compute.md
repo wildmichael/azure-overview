@@ -3,7 +3,7 @@
 * **[Azure CycleCloud]**: Verwaltete Cluster für Hochleistungsrechnen (HPC).
     Z.B. für Ströhmungssimulationen, Biochemie, Festigkeitsrechnungen, Wetter-
     oder Klimasimulationen, etc.
-* **[Azure Functions]**<a name="functions"></a>: Serverloser Betrieb von
+* **[Azure Functions]**: Serverloser Betrieb von
     ereignisgesteuerten Funktionen.
 * **[Azure Quantum]**: Marketplace für Anwendungen von Quantencomputern (noch
     in Vorschau).

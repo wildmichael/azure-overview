@@ -2,7 +2,7 @@
 
 * **[Kinect DK]**: Entwickler-Kit mit Hard- und Software mit Funktionen für
     Spatial Computing, maschinelles Sehen und Sprachverarbeitung. Kann mit
-    [Azure Cognitive Services](/ai-machine-learning.md#cognitive) verbunden
+    [Azure Cognitive Services](/ai-machine-learning.md) verbunden
     werden.
 * **[Azure Remote Rendering]**: Rendering von 3D-Inhalten in der Cloud und
     Echtzeitstreaming auf die Geräte, z.B. die [Microsoft HoloLens 2].
