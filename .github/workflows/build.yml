@@ -24,6 +24,9 @@ jobs:
         python -m pip install jupyter-book
     - name: Build book
       run: jb build .
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%dT%H:%M:%S')"
     - name: Commit the book
       uses: s0/git-publish-subdir-action@v2.4.0
       env:
@@ -31,3 +34,4 @@ jobs:
         BRANCH: generated
         FOLDER: _build
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        TAG: az-overview-${{ steps.date.outputs.date }}
