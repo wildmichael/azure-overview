@@ -27,11 +27,11 @@ jobs:
     - name: Get current date
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%dT%H:%M:%S')"
-    - name: Commit the book
-      uses: s0/git-publish-subdir-action@v2.4.0
-      env:
-        REPO: self
-        BRANCH: generated
-        FOLDER: _build
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        TAG: az-overview-${{ steps.date.outputs.date }}
+    - name: Publish book
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: generated
+        publish_dir: _build
+        tag_name: az-overview-${{ steps.date.outputs.date }}
+        tag_message: 'Published book version ${{ steps.prepare_tag.outputs.tag_name }}'
