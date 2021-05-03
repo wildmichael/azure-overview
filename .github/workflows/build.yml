@@ -32,7 +32,7 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_branch: generated
-        publish_dir: _build
+        publish_dir: _build/html
         keep_files: true
         tag_name: az-overview-${{ steps.date.outputs.date }}
         tag_message: 'Published book version ${{ steps.prepare_tag.outputs.tag_name }}'
