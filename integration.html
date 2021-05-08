@@ -295,10 +295,23 @@
 Kann zur Integration von On-Premise und Cloud-Anwendungen, zur
 Entkoppelung von Anwendungen, Ereignisversand an Backendsysteme, etc.
 verwendet werden. Im Gegensatz zu <a class="reference internal" href="analysis.html"><span class="doc std std-doc">Event Hubs</span></a>
-ist hier der Fokus auf nicht auf Ereignissen, sondern auf Nachrichten mit
-Antworten.</p></li>
+ist hier der Fokus nicht auf Ereignissen, sondern auf Nachrichten mit
+Antworten. Gibt es als</p>
+<ul>
+<li><p>Queue, ähnlich wie <span class="xref myst">Queue Storage</span> aber mit mehr
+Fähigkeiten, wie z.B. Transaktions-Semantik, wenn mehrere Nachrichten
+gruppiert werden, oder FIFO- und At-Most-Once-Garantien.</p></li>
+<li><p>Topics, wenn mehrere Empfänger eine Nachrichten erhalten sollen
+(Publish-Subscribe).</p></li>
+</ul>
+</li>
 <li><p><strong><a class="reference external" href="https://azure.microsoft.com/de-de/services/event-grid/">Event Grid</a></strong>: Event Bus, für die Erstellung von
-ereignisgesteuerten und serverlosen Anwendungen.</p></li>
+ereignisgesteuerten und serverlosen Anwendungen. Die Events selber sollten
+dabei nur Referenzen auf die eigentlichen Daten übermitteln. Geeignet für
+Einzelereignisse. Datenreihen (z.B. Zeitreihen von Messinstrumenten) sollten
+über <a class="reference internal" href="analysis.html"><span class="doc std std-doc">Event Hubs</span></a>, welche z.B. in ein Langzeitarchiv abgelegt
+und gleichzeitig mittels <a class="reference internal" href="analysis.html"><span class="doc std std-doc">Stream Analytics</span></a> weiterverarbeitet
+werden sollen..</p></li>
 <li><p><strong><a class="reference external" href="https://azure.microsoft.com/de-de/services/logic-apps/">Logic Apps</a></strong>: Nachfolger von BizTalk, mit Migrationstool, mit Container
 Deployment. Vielzahl von Konnektoren, komplexe Datentransformationen, B2B
 und Enterprise-Messaging.</p></li>

@@ -43,7 +43,8 @@
     Leistungsmerkmalen und Preisen.
 * **[Queue Storage]**: Verwalteter Speicherdienst für Message Queueing mit
     grossen Datenmengen. Client-Bibliotheken für gängige Programmiersprachen
-    und REST API.
+    und REST API. Sonst aber sehr einfach gehalten, mit wenig Garantien und
+    Features.
 * **[Speicher Explorer]**: Zentrales Tool zur Verwaltung aller Azure
     Speicherressourcen (Blob, Queue, Datenbanken, Data Lake, etc.). Erlaubt die Konfiguration von rollenbasierten Zugriffsrechten.
 * **[StorSimple]**: Dienst für hybride Cloud-Speicher, mit der die
