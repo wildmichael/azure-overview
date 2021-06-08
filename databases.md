@@ -10,7 +10,6 @@
   * Dokumentenbasiert: [MongoDB]-kompatible API
   * Spaltenorientiert: [Apache Cassandra]-kompatibles Protokoll
   * Graph: [Gremlin]-kompatible API
-  * Key-Value-Store: [etcd]
   * Tabellen: [Table Storage]
 * **[Azure Database for MariaDB]**: Verwaltete Community-Edition von [MariaDB].
     Diese fing als Abspaltung von [MySQL] an, hat sich mittlerweile recht weit
@@ -47,7 +46,6 @@
 [MongoDB]: https://www.mongodb.com/
 [Apache Cassandra]: https://cassandra.apache.org/
 [Gremlin]: https://tinkerpop.apache.org/
-[etcd]: https://etcd.io/
 [Table Storage]: https://azure.microsoft.com/en-us/services/storage/tables/
 [Azure Database for MariaDB]: https://azure.microsoft.com/de-de/services/mariadb/
 [MariaDB]: https://mariadb.org/
