@@ -28,3 +28,4 @@ html:
 
 exclude_patterns:
   - README.md
+  - "**/_build/**/*.md"
