@@ -78,7 +78,6 @@
 [Azure Bastion]: https://azure.microsoft.com/de-de/services/azure-bastion/
 [Azure DNS]: https://azure.microsoft.com/de-de/services/dns/
 [Azure Firewall]: https://azure.microsoft.com/de-de/services/azure-firewall/
-[Lastenausgleich]: https://azure.microsoft.com/de-de/products/azure-load-balancing/
 [Azure Firewall Manager]: https://azure.microsoft.com/de-de/services/firewall-manager/
 [Azure Front Door]: https://azure.microsoft.com/de-de/services/frontdoor/
 [Azure Internet Analyzer]: https://azure.microsoft.com/de-de/services/internet-analyzer/
