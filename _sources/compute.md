@@ -19,7 +19,7 @@
     Web-App, wird auf einer von Microsoft verwalteten VM betrieben (d.h.
     Microsoft kümmert sich um Konfiguration, Sicherheitsupdates, etc.)
 * **[Virtuelle Computer]**: Infrastructure as a Service (IaaS). Virtuelle
-    Computer (VMs) mit Linux und Windows Betriebbsystem. Verfügbar mit
+    Computer (VMs) mit Linux und Windows Betriebssystem. Verfügbar mit
     unterschiedlichen Leistungsmerkmalen (CPU, Speicherplatz, Memory, etc.).
 * **[Mobile Apps]**: Bereitstellen von Backends für Mobile Apps. Nach Kunden
     segmentierte Push-Nachrichten, AD-Anmeldung für Unternehmenskunden.
@@ -29,9 +29,6 @@
     Microservices und Containern. Wird von einer Vielzahl von Microsoft-Produkten
     und Azure-Services verwendet (Skype for Business, Intune, Event Hubs, Data
     Factory, Cosmos DB, ...). [Vergleich AKS vs. Service Fabric]
-* **[SQL Server auf VM]**: Betrieb von MS SQL Server auf einer von Microsoft
-    verwalteten VM. Voller Funktionsumfang von on-premise SQL Server, aber höhere
-    Kosten als die SaaS-Version von SQL Server.
 * **[Microsoft Azure Virtual Machine Scale Sets]**: Zur Verwaltung und
     Skalierung grosser Anzahl von virtueller Maschinen.
 * **[Azure Dedicated Host]**: Dedizierte physische Server zum Hosten von VMs.
@@ -50,6 +47,5 @@
 [Mobile Apps]: https://azure.microsoft.com/de-de/services/app-service/mobile/
 [Service Fabric]: https://azure.microsoft.com/de-de/services/service-fabric/
 [Vergleich AKS vs. Service Fabric]: https://docs.microsoft.com/en-us/archive/blogs/azuredev/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture
-[SQL Server auf VM]: https://azure.microsoft.com/de-de/services/virtual-machines/sql-server/
 [Microsoft Azure Virtual Machine Scale Sets]: https://azure.microsoft.com/de-de/services/virtual-machine-scale-sets/
 [Azure Dedicated Host]: https://azure.microsoft.com/de-de/services/virtual-machines/dedicated-host/

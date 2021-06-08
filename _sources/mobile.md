@@ -7,7 +7,7 @@
     rasch Apps für Android, iOS, macOS und Windows zu erstellen, testen,
     freigeben und überwachen.
 * **[Xamarin]**: .NET Entwicklungsplattform für native Android und iOS Apps.
-    Basis für das neue cross-platform UI-Toolkit [MAUI].
+    Basis für das neue plattformübergreifendes UI-Toolkit [MAUI].
 * **[Azure Communications Services]**: Kommunikationsplattform für Telefonie,
     Video, Chat und SMS. Wird von MS Teams verwendet und eigene Applikationen
     können mit diesem auch integriert werden.

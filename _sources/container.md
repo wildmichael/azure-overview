@@ -1,13 +1,13 @@
 # [Container]
 
 * **[Azure Kubernetes Service] (AKS)**: Verwaltete
-    Container-Orchestrierungs-Platform. Wird zur Erstellung von hochskalierbaren
+    Container-Orchestrierungs-Plattform. Wird zur Erstellung von hochskalierbaren
     Microservice-Architekturen verwendet. Es fallen Kosten für die verwendeten
     VMs an.
 * **[Azure Red Hat OpenShift]**: Verwaltete Container-Orchestrierungslösung von
     Red Hat. Ähnlich zu Kubernetes, aber mit graphischer Oberfläche, Verwaltung
     von Konfiguration/Parametern/Secrets und mehr Self-Service.
-* **[Container Instances] (ACI)**: Container-Orchestrierungs-Platform, als
+* **[Container Instances] (ACI)**: Container-Orchestrierungs-Plattform, als
     Alternative zu [AKS](#AKS). Für die VMs fallen keine zusätzlichen Kosten an.
 * **[Container Registry]**: Geo-replizierte Registrierung (Repository) für
     Container Images und OCI-Artefakte (Kubernetes Helm Charts).

@@ -1,6 +1,6 @@
 # [Identität]
 
-* **[Azure Active Directory]**: Verwaltete Identitätsplatform von Microsoft für
+* **[Azure Active Directory]**: Verwaltete Identitätsplattform von Microsoft für
     Single-Sign-On und Multifactor-Authentifizierung. Azure AD hat mit
     On-Premise AD nur einen teilweisen Feature-Overlap.
     Hybrider/Synchronisierter Betrieb mit On-Premise AD ist (mit

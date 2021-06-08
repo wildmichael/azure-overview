@@ -6,7 +6,7 @@
     verwendet werden. Im Gegensatz zu [Event Hubs](/analysis.md)
     ist hier der Fokus nicht auf Ereignissen, sondern auf Nachrichten mit
     Antworten. Gibt es als
-    * Queue, ähnlich wie [Queue Storage](./integration.md#) aber mit mehr
+    * Queue, ähnlich wie [Queue Storage](./storage.md) aber mit mehr
       Fähigkeiten, wie z.B. Transaktions-Semantik, wenn mehrere Nachrichten
       gruppiert werden, oder FIFO- und At-Most-Once-Garantien.
     * Topics, wenn mehrere Empfänger eine Nachrichten erhalten sollen
@@ -17,7 +17,7 @@
     Einzelereignisse. Datenreihen (z.B. Zeitreihen von Messinstrumenten) sollten
     über [Event Hubs](./analysis.md), welche z.B. in ein Langzeitarchiv abgelegt
     und gleichzeitig mittels [Stream Analytics](./analysis.md) weiterverarbeitet
-    werden sollen..
+    werden sollen.
 * **[Logic Apps]**: Nachfolger von BizTalk, mit Migrationstool, mit Container
     Deployment. Vielzahl von Konnektoren, komplexe Datentransformationen, B2B
     und Enterprise-Messaging.
