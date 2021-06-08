@@ -31,7 +31,9 @@
 * **[SQL Server auf virtuellem Computer]**: Von Microsoft verwaltete SQL Server
     Instanz auf dedizierter Azure Virtual Machine (welche optional auch von
     Microsoft verwaltet/gewartet wird). Vor allem für Lift&Shift gedacht, um
-    on-premise DB-Server einfach in die Cloud zu migrieren.
+    on-premise DB-Server einfach in die Cloud zu migrieren. Voller
+    Funktionsumfang von on-premise SQL Server, aber höhere Kosten als die
+    SaaS-Version von SQL Server.
 * **[Table Storage]**: Schlüssel-Wert-Tabellen für teilweise strukturierte
     Daten. Abfragen können mit OData gemacht werden.
 * **[Azure Managed Storage für Apache Cassandra]** (Vorschau): Von Microsoft
@@ -46,6 +48,7 @@
 [MongoDB]: https://www.mongodb.com/
 [Apache Cassandra]: https://cassandra.apache.org/
 [Gremlin]: https://tinkerpop.apache.org/
+[SQL Server auf virtuellem Computer]: https://azure.microsoft.com/de-de/services/virtual-machines/sql-server/
 [Table Storage]: https://azure.microsoft.com/en-us/services/storage/tables/
 [Azure Database for MariaDB]: https://azure.microsoft.com/de-de/services/mariadb/
 [MariaDB]: https://mariadb.org/
