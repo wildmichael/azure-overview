@@ -16,7 +16,7 @@
     Senden von IoT Daten, Geräteupdates und Verbinden mit Logik in [Event
     Grid](/integration.md) und serverlosen Anwendungen, z.B.
     [Azure Functions](./compute.md). Kann mit [Azure IoT
-    Edge](#iot-edge) und [Azure Stack](hybrid-multicloud.md).
+    Edge](#iot-edge) und [Azure Stack](hybrid-multicloud.md) verwendet werden.
 * **[Azure IoT Solution Accelerators]**: Vorbereitete Lösungen für gängige IoT
     Probleme, wie Remoteüberwachung, Predictive Maintenance,
     Gerätesimulation. Die Lösungen können dann individuell angepasst und
@@ -24,7 +24,7 @@
 * **[Azure RTOS]**: Entwicklungssuite mit kleinem, leistungsfähigem
     Echtzeitbetriebssystem für 32-Bit-Mikrokontroller.
 * **[Azure Sphere]**: IoT-Sicherheitslösung.
-* **[Azure Time Series Insight]**: Analyseplatform für die Überwachung, Analyse
+* **[Azure Time Series Insight]**: Analyseplattform für die Überwachung, Analyse
     und Visualisierung von industriellen IoT Daten.
 * **[Windows 10 IoT Services]**: Windows 10 Core Betriebssystem für IoT Geräte.
     Alle 2-3 Jahre ein neues Release mit jeweils 10 Jahren Support und
@@ -37,7 +37,7 @@
     ohne installierten Agent auf Netzwerkebene verschiedene Industriegeräte
     absichern, aber auch mit Agenten auf IoT Geräten direkt arbeiten. Kann
     mit [Azure Sentinel](/security.md) verwendet werden.
-* **[Azure Percept]** (Vorschau): Platform für die KI/ML-Entwicklung auf
+* **[Azure Percept]** (Vorschau): Plattform für die KI/ML-Entwicklung auf
     Edge-Geräten. Prototypen lassen sich sehr schnell erstellen und mit
     [Azure KI](/ai-machine-learning.md) und Azure IoT Diensten integrieren.
     Funktioniert automatisch mit [Azure Cognitive

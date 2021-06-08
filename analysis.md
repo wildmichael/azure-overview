@@ -15,12 +15,12 @@
     viele Konnektoren, um Daten aus unterschiedlichen Quellen zu laden,
     transformieren und dann in [Azure Synapse Analytics](./analysis.md) zu
     speichern.
-* **[Data Lake Analytics]**: Big-Data Analyseplatform. Kann Daten aus [Azure
+* **[Data Lake Analytics]**: Big-Data Analyseplattform. Kann Daten aus [Azure
     Synapse Analytics](./analysis.md), [Azure Data Lake
     Storage](./storage.md), [Azure Blob Storage](./storage.md) und SQL
     Datenbanken in der Azure Cloud beziehen. Analysen können mit R, Python
     und U-SQL (SQL-Dialekt+C#) gemacht werden.
-* **[Event Hubs]**: Event Streaming Platform für
+* **[Event Hubs]**: Event Streaming Plattform für
     Datenerfassung und Verarbeitung in Echtzeit, ähnlich wie Apache Kafka.
     Kann mit AMQP, Apache Kafka, aber auch direkt HTTP, integriert werden.
     Der Fokus liegt auf die Verarbeitung von Ereignissen, im Gegensatz zu
@@ -30,7 +30,7 @@
     Apache Hadoop, Apache HBase, Apache Kafka und anderen.
 * **[Log Analytics]**: Analyse von Log Daten aus
     [Azure Monitor](/management-tools.md).
-* **[Power BI Embedded]**: White-Label Power BI Komponenten für Kundenseitige
+* **[Power BI Embedded]**: White-Label Power BI Komponenten für kundenseitige
     Reports, Dashboards, etc.
 * **[R-Server for HDInsight]**: Verwalteter Server, um mit der
     Statistiksoftware R Analysen auf [HDInsight](./analysis.md) durchzuführen.

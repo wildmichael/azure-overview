@@ -28,7 +28,7 @@
     * **[Metrics Advisor]** (Vorschau): Überwachung von Zeitreihendaten aus
         Geschäfts-, Maschinen- und IoT-Daten unter Verwendung der
         Anomalieerkennung. Bietet Alarmierung, Simulation von Szenarien,
-        Root-Cause-Analye und Diagnose.
+        Root-Cause-Analyse und Diagnose.
     * **[Personalisierung]**: Priorisierung von Inhalten, Anpassung von Layouts
         etc. Die Modelle werden erst im Ausbildungsmodus trainiert und erst
         bei Erreichen der Qualitätsziele aktiv geschalten. Tools zur
@@ -78,7 +78,7 @@
     * **[Gesichtserkennung]**: Erkennung von Gesichtern aufgrund verschiedener
         Merkmale. Kann von der Cloud bis zur Edge in Containern betrieben
         werden.
-    * **[Maschinelles Sehen]**: Textextraktion (OCR), Bildanalye, räumliche
+    * **[Maschinelles Sehen]**: Textextraktion (OCR), Bildanalyse, räumliche
         Analyse (Anzahl Personen, deren Abstand, Gesichtsmasken, etc.). Kann
         von der Cloud bis zur Edge in Containern betrieben werden.
     * **[Videoindizierung]**: Extraktion von Metadaten wie gesprochene Worte,

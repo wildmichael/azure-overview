@@ -19,7 +19,7 @@
     Web-App, wird auf einer von Microsoft verwalteten VM betrieben (d.h.
     Microsoft kümmert sich um Konfiguration, Sicherheitsupdates, etc.)
 * **[Virtuelle Computer]**: Infrastructure as a Service (IaaS). Virtuelle
-    Computer (VMs) mit Linux und Windows Betriebbsystem. Verfügbar mit
+    Computer (VMs) mit Linux und Windows Betriebssystem. Verfügbar mit
     unterschiedlichen Leistungsmerkmalen (CPU, Speicherplatz, Memory, etc.).
 * **[Mobile Apps]**: Bereitstellen von Backends für Mobile Apps. Nach Kunden
     segmentierte Push-Nachrichten, AD-Anmeldung für Unternehmenskunden.

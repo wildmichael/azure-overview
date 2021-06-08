@@ -1,6 +1,9 @@
 # [DevOps]
 
-Azure DevOps hiess früher _Visual Studio Team Services (VSTS)_. Es nutzt cloud-gehostete Komponenten von _Team Foundation Server (TFS)_. Das on-premise Produkt _Team Foundation Server_ heisst verwirrenderweise neu _Azure DevOps Server_.
+Azure DevOps hiess früher _Visual Studio Team Services (VSTS)_. Es nutzt
+cloud-gehostete Komponenten von _Team Foundation Server (TFS)_. Das on-premise
+Produkt _Team Foundation Server_ heisst verwirrenderweise neu _Azure DevOps
+Server_.
 
 * **[Azure Artifacts]**: Software-Pakete für Maven, NPM, NuGet und Python
     erstellen und hosten. Mit Rechteverwaltung.

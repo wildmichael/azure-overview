@@ -5,7 +5,8 @@
     für private, öffentliche und hybride Web-Applikationen,
     Web-Applikations-Firewall, 99.95% Verfügbarkeits-SLA.
 * **[Azure Bastion]**: Verwalteter Dienst für den privaten Zugriff auf
-    Cloud-VMs mit RDP und SSH-Protokoll, ohne dass deren IP-Adressen vom öffentlichen Internet zugänglich wären.
+    Cloud-VMs mit RDP und SSH-Protokoll, ohne dass deren IP-Adressen vom
+    öffentlichen Internet zugänglich wären.
 * **[Azure DNS]**: Domain-Name-Service von Microsoft. Unterstützt private
     DNS-Zonen für virtuelle Netzwerke. Private und öffentliche Zonen können
     den gleichen DNS-Namen ohne Konflikt verwenden.
@@ -24,7 +25,7 @@
 * **[Azure Front Door]**: Ein verwaltetes Content Distribution Network (CDN)
     mit eingebauten Sicherheits-Tools, wie Schutz vor DDoS und
     Bot-Netzwerken. Die Web-Applikation-Firewall (WAF) bietet SSL-Offloading.
-    Der Premium Service (Vorschau) bietet zusätzlich eine Platform für die
+    Der Premium Service (Vorschau) bietet zusätzlich eine Plattform für die
     statische und dynamische Beschleunigung und Echtzeit-Analysen.
 * **[Azure Internet Analyzer]** (Vorschau): Erlaubt das Testen von Änderungen
     an der Netzwerkinfrastruktur bezüglich der Leistung für Kunden.

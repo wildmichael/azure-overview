@@ -17,7 +17,7 @@
     Einzelereignisse. Datenreihen (z.B. Zeitreihen von Messinstrumenten) sollten
     über [Event Hubs](./analysis.md), welche z.B. in ein Langzeitarchiv abgelegt
     und gleichzeitig mittels [Stream Analytics](./analysis.md) weiterverarbeitet
-    werden sollen..
+    werden sollen.
 * **[Logic Apps]**: Nachfolger von BizTalk, mit Migrationstool, mit Container
     Deployment. Vielzahl von Konnektoren, komplexe Datentransformationen, B2B
     und Enterprise-Messaging.
